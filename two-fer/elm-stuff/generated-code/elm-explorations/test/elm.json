@@ -1,0 +1,30 @@
+{
+    "type": "application",
+    "source-directories": [
+        "/home/tcake/Projects/Elm/basic-elm/two-fer/elm-stuff/generated-code/elm-explorations/test/src",
+        "/home/tcake/.npm_global/lib/node_modules/elm-test/elm/src",
+        "/home/tcake/Projects/Elm/basic-elm/two-fer",
+        "/home/tcake/Projects/Elm/basic-elm/two-fer/tests"
+    ],
+    "elm-version": "0.19.0",
+    "dependencies": {
+        "direct": {
+            "elm/core": "1.0.0",
+            "elm/json": "1.0.0",
+            "elm/random": "1.0.0",
+            "elm/time": "1.0.0",
+            "elm/browser": "1.0.0",
+            "elm/html": "1.0.0",
+            "elm/regex": "1.0.0",
+            "elm-explorations/test": "1.0.0"
+        },
+        "indirect": {
+            "elm/url": "1.0.0",
+            "elm/virtual-dom": "1.0.0"
+        }
+    },
+    "test-dependencies": {
+        "direct": {},
+        "indirect": {}
+    }
+}
